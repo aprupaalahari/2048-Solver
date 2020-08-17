@@ -1,4 +1,4 @@
-# engr105-final-project
+# ENGR105 Final Project
 ENGR 105 
 Final Project
 Aprupa Alahari
