@@ -1,1 +1,16 @@
 # engr105-final-project
+'''ENGR 105 
+Final Project
+Aprupa Alahari
+May 9th, 2020
+
+Project Name: 2048
+Author: Aprupa Alahari
+
+Instructions: This is the classic game 2048. Players will decide to move the board up, down, left, or right in order to combine tiles of equal value, with the final goal of achieving the 2048 tile and/or obtaining a score. Players chose a color scheme for the game between Beach, Water, and Peach. There is also an Undo button (can only be played once in a game), a Single Step Solver (which implements the next best move as decided by the solver algorithm), and two Full Solvers (which plays the game autonomously, one using the same solver algorithm on individual states of the game, and one that randomizes sets of movements and chooses the best series of movements). The two algorithms used were an implementation of Monte Carlo, which plays the move(s) with the most desirable outcome(s).
+
+Intent: To simulate the classic 2048 game, but with different color schemes. 
+
+Features: Color scheme selection, Undo option, Single Step Solver, 2 Full Solves, and Directional keys. Keyboard can also be used, but cannot be combined with the on-screen push buttons. 
+
+MATLAB/Algorithm Skills: Used Monte Carlo methods for generating a solver algorithm. Used uicontrol objects to visualize the game, with callbacks that players can interact with. '''
