@@ -1,5 +1,5 @@
 # engr105-final-project
-'''ENGR 105 
+ENGR 105 
 Final Project
 Aprupa Alahari
 May 9th, 2020
@@ -13,4 +13,4 @@ Intent: To simulate the classic 2048 game, but with different color schemes.
 
 Features: Color scheme selection, Undo option, Single Step Solver, 2 Full Solves, and Directional keys. Keyboard can also be used, but cannot be combined with the on-screen push buttons. 
 
-MATLAB/Algorithm Skills: Used Monte Carlo methods for generating a solver algorithm. Used uicontrol objects to visualize the game, with callbacks that players can interact with. '''
+MATLAB/Algorithm Skills: Used Monte Carlo methods for generating a solver algorithm. Used uicontrol objects to visualize the game, with callbacks that players can interact with.
